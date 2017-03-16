@@ -1,0 +1,6 @@
+C:\Users\Ella\Desktop\ShopThreads\bin\Debug\ShopThreads.exe.config
+C:\Users\Ella\Desktop\ShopThreads\bin\Debug\ShopThreads.exe
+C:\Users\Ella\Desktop\ShopThreads\bin\Debug\ShopThreads.pdb
+C:\Users\Ella\Desktop\ShopThreads\obj\Debug\ShopThreads.csprojResolveAssemblyReference.cache
+C:\Users\Ella\Desktop\ShopThreads\obj\Debug\ShopThreads.exe
+C:\Users\Ella\Desktop\ShopThreads\obj\Debug\ShopThreads.pdb
